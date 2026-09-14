@@ -1,8 +1,10 @@
 # cybersecurity-networks
-for IS 353
+for IS 353 TUTORIAL 1
 ![Screenshot](Images3/Screenshot%202026-09-02%20155128.png)
 ![Screenshot](Images3/Screenshot%202026-09-02%20160430.png)
 
+
+TUTORIAL 2
 ![Screenshot](Images3/Screenshot%202026-09-14%20152309.png)
 This shows an internet bandwidth test with 46.02 Mbps download and 36.12 Mbps upload speeds, and separate latency (ping) figures for different use cases — 36 ms unloaded, 20 ms for downloads, and 17 ms for uploads (measuring latency under load).
 ![Screenshot](Images3/Screenshot%202026-09-14%20152409.png)
