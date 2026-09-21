@@ -1,8 +1,12 @@
 TUTORIAL 2
 
 ![Screenshot](Images3/Screenshot%202026-09-14%20152309.png)
+
 This shows an internet bandwidth test with 46.02 Mbps download and 36.12 Mbps upload speeds, and separate latency (ping) figures for different use cases — 36 ms unloaded, 20 ms for downloads, and 17 ms for uploads (measuring latency under load).
+
+
 ![Screenshot](Images3/Screenshot%202026-09-14%20152409.png)
+
 This is a ping test to the host 10.233.177.131, confirming reachability. The test succeeded (PingSucceeded: True) with a round-trip time of 102 ms, sent from the local Wi-Fi interface's address (10.233.189.213).
 
 ![Screenshot](Images3/Screenshot%202026-09-14%20152440.png)
