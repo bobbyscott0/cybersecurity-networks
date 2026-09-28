@@ -5,3 +5,6 @@ TUTORIAL 3
 
 
 ![Screenshot](Images3/Screenshot%202026-09-28%20152852.png)
+
+
+I used diagrams.net to draw a switched LAN network diagram in a star topology. The diagram has three switches, with Switch 3 labeled as the central switch and connected to both Switch 1 and Switch 2. PC1, PC2, and PC3 are connected to Switch 1, and PC4, PC5, PC6, and PC7 are connected to Switch 2. I used the Networking shapes for the PC and switch icons and labeled each device so the layout is easy to follow.
