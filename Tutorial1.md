@@ -11,3 +11,6 @@ For Tutorial 1, I used the PowerShell command Get-ComputerInfo with the -Propert
 
 
 ![Screenshot](Images3/Screenshot%202026-09-28%20151313.png)
+
+
+I looked at a Linux kernel diagram that shows how the operating system is organized into layers and functions. The diagram is arranged in columns for human interface, system, multitasking, memory, storage, and networking, and each column moves from user space interfaces at the top, through virtual subsystems, bridges, and logical layers, down to hardware interfaces and the physical electronics at the bottom. For example, the memory column goes from memory access to virtual memory, then to logical memory and the page allocator, and finally to the MMU and RAM, while the storage column connects the virtual file system to block devices and storage devices.
