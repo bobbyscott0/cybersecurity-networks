@@ -1,1 +1,4 @@
 ![Routing table screenshot](Images3/Screenshot%202026-10-12%20151015.png)
+
+
+The screenshot shows the output of Get-NetRoute, where each row is one route that tells Windows where to send traffic. The DestinationPrefix column is the network the route applies to, and NextHop is where packets for that network are sent next; a NextHop of 0.0.0.0 (or :: for IPv6) means the destination is directly connected or handled locally, while 10.233.176.1 on the 0.0.0.0/0 row is my default gateway, the route used for any traffic that doesn't match a more specific entry. ifIndex identifies which network interface the route uses, and RouteMetric and ifMetric are priority values, with lower numbers preferred when multiple routes match. Other notable entries include 127.0.0.0/8 (loopback, my own machine), 224.0.0.0/4 (multicast), 255.255.255.255/32 (broadcast), 10.233.176.0/20 (my local subnet), and fe80:: (IPv6 link-local addresses).
