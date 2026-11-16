@@ -14,3 +14,5 @@ Root Servers
 8. **Authoritative answer:** The authoritative server returns the IP address (an A or AAAA record) along with a TTL that says how long the answer can be cached.
 9. **Return to the user:** The resolver caches the answer and sends the IP address to the user's computer. The browser then connects to that IP address.
 
+IP Network Design
+![Untitled Diagram.drawio.png](Images3/Untitled Diagram.drawio.png)
