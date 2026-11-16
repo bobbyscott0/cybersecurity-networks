@@ -15,4 +15,4 @@ Root Servers
 9. **Return to the user:** The resolver caches the answer and sends the IP address to the user's computer. The browser then connects to that IP address.
 
 IP Network Design
-![Untitled_Diagram.drawio.png](Images3/Untitled_Diagram.drawio.png)
+![Network diagram](Images3/Untitled%20Diagram.drawio.png)
