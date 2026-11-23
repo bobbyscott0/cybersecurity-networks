@@ -16,3 +16,6 @@ Credentials. The doc also points to Microsoft Applied Skills and the AZ-900 Azur
 
 
 ![Azure portal screenshot](Images3/Screenshot%202026-11-23%20124642.png)
+
+
+This is one of the certifications listed on the Azure student learning platform that I found really interesting. This is a certification I would be interested in taking because it is relevant to my major and is going to be pivotal in the new age of business.
