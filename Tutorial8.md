@@ -120,3 +120,7 @@ Why it's important. For developers, it gives a short, realistic list of what to 
 qualys
 
 It connects to my CVE work in Task 3. The Pods plugin flaw (CVE-2026-19598) was an authorization failure (CWE-863), which falls under Broken Access Control, the top category. Seeing a real critical CVE match the top OWASP risk showed me the list reflects what actually happens. It does have limits, though. The categories are deliberately high-level and meant to raise awareness rather than serve as a testing checklist, so passing "the Top 10" doesn't mean an application is secure. I see it as a foundation to build on, not a finish line. 
+
+
+---
+[⬅ Back to main README](README.md)
