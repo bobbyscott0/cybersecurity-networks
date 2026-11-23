@@ -10,3 +10,4 @@ Frequency band: 5 GHz
 Channel: 48
 
 Data rate: Receive 1201 Mbps, Transmit 720.5 Mbps
+
