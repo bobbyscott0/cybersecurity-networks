@@ -7,3 +7,4 @@
 - [Tutorial 5](Tutorial5.md)
 - [Tutorial 6](Tutorial6.md)
 - [Tutorial 7](Tutorial7.md)
+- [Tutorial 8](Tutorial8.md)
