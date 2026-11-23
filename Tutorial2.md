@@ -16,3 +16,6 @@ This shows the IP configuration for the active interfaces. The Wi-Fi adapter is 
 ![Screenshot](Images3/Screenshot%202026-09-14%20152636.png)
 
 This is a ping test to the host 10.233.177.131, confirming reachability. The test succeeded (PingSucceeded: True) with a round-trip time of 102 ms, sent from the local Wi-Fi interface's address (10.233.189.213).
+
+---
+[⬅ Back to main README](README.md)
