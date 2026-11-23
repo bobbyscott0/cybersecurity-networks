@@ -1,3 +1,5 @@
+ASSETS
+
 Asset 1: Customer personal details (names, addresses, phone numbers)
 
 Protection: Confidentiality (secondary: integrity)
@@ -17,3 +19,20 @@ Asset 4: Staff and admin login credentials
 
 Protection: Confidentiality
 Reason: If an attacker gets admin passwords, they can access every other asset, change settings, and cover their tracks. Keeping credentials secret protects the whole system.
+
+THREATS
+
+Threat Source 1: Disgruntled employee (insider)
+
+Motivation: wants revenge on the business after being fired, disciplined, or passed over, so they might delete records, change financial data, or leak customer details.
+Assets at risk: customer personal details, financial records.
+
+Threat Source 2: Cybercriminal (external attacker)
+
+Motivation: wants financial gain, for example by stealing customer data to sell, stealing payment information, or locking the server with ransomware and demanding payment.
+Assets at risk: customer personal details, network and server availability.
+
+Threat Source 3: Competitor
+
+Motivation: wants a business advantage, for example by stealing customer lists, pricing, or plans, or by disrupting the network to hurt sales.
+Assets at risk: customer personal details, network avail
