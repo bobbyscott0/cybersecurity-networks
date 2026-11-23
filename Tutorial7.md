@@ -13,3 +13,6 @@ This shows that security needs to be configured deliberately and isn't automatic
 
 
 Credentials. The doc also points to Microsoft Applied Skills and the AZ-900 Azure Fundamentals certification. AZ-900 is an entry-level exam, while Applied Skills are shorter practical assessments, which could be useful for building career credentials.
+
+
+![Azure portal screenshot](Images3/Screenshot%202026-11-23%20124642.png)
