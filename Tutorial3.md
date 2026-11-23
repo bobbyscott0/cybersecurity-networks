@@ -13,3 +13,7 @@ I used diagrams.net to draw a switched LAN network diagram in a star topology. T
 
 LEARNING REFLECTION
 The tools we have learned so far are mainly focused on Microsoft PowerShell and how we can use it to understand our computers and the networks they use. With commands like Get-ComputerInfo, we can quickly find out how much memory a machine has, what processor it runs on, and how many logical processors are available. We also looked at the Linux kernel diagram, which showed how an operating system is organized into layers, from the user space interfaces at the top down to the hardware at the bottom. In addition, we used diagrams.net to draw network diagrams, which helped us see how devices like PCs and switches connect to each other in a LAN. This is useful in the real world because you can't protect a system or network you don't understand. Knowing what hardware a computer has, how its resources are being used, and how devices are connected is the first step toward spotting things that don't belong, such as unusual memory usage, unknown devices on a network, or a weak point in how a network is laid out. These skills are the foundation for understanding cybersecurity concepts, since security professionals have to know how a system normally works before they can tell when something is wrong.
+
+
+---
+[⬅ Back to main README](README.md)
