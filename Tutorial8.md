@@ -104,3 +104,19 @@ Update Chrome to 149.0.7827.53 or later.
 Keep automatic updates on.
 Be careful with unfamiliar links.
 
+TASK 4
+
+Why vendors take time. When a researcher reports a flaw, the vendor first has to confirm it, find the root cause, and build a fix. The fix then has to be tested so it doesn't break other features, and for hardware or firmware (like routers) that is slow. Vendors may also be coordinating with other companies whose products share the same code, or waiting for their regular patch release. Some delay is also self-interested, such as protecting reputation, and I think that part is less justifiable.
+
+What a reasonable time is. There's no single answer, and organizations differ. Google's Project Zero has used a 90-day deadline, the CERT Coordination Center uses 45 days, and HP's Zero Day Initiative uses 120 days. Project Zero also uses a much shorter seven-day deadline for bugs already being exploited in the wild. The trend is toward shorter windows: Project Zero plans to drop from 90 days to 60 days in February and 30 days in January 2028. AI-assisted vulnerability discovery is a reason given for this change, since flaws are now easier to find and exploit. I think around 45 to 90 days is reasonable for most bugs, shorter for critical ones, and much shorter if attackers are already using the flaw. A vendor that is making real progress and communicating should be able to get a short extension.
+
+Task 5 
+
+Purpose. The OWASP Top 10 is an awareness document for developers and web application security, representing broad consensus about the most critical risks to web applications. It isn't a complete list of every possible flaw. It's a ranked starting point based on real data, and the latest edition was announced in November 2025, finalized in January 2026, and is the first update since 2021, drawing on analysis of more than 175,000 CVEs. 
+owasp
+parasoft
+
+Why it's important. For developers, it gives a short, realistic list of what to avoid, so they can learn secure coding habits without having to know every vulnerability. For security professionals, it gives teams and clients a shared language, helps them prioritize testing and training, and helps explain risk to non-technical managers. The list also shows how threats change. The 2025 edition keeps Broken Access Control at number one, moves Security Misconfiguration from fifth to second, and adds two new categories: Software Supply Chain Failures and Mishandling of Exceptional Conditions. That tells developers that dependencies and error handling matter, not just their own code. 
+qualys
+
+It connects to my CVE work in Task 3. The Pods plugin flaw (CVE-2026-19598) was an authorization failure (CWE-863), which falls under Broken Access Control, the top category. Seeing a real critical CVE match the top OWASP risk showed me the list reflects what actually happens. It does have limits, though. The categories are deliberately high-level and meant to raise awareness rather than serve as a testing checklist, so passing "the Top 10" doesn't mean an application is secure. I see it as a foundation to build on, not a finish line. 
