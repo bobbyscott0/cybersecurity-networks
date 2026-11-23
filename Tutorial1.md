@@ -17,4 +17,4 @@ I looked at a Linux kernel diagram that shows how the operating system is organi
 
 
 ---
-[⬅ Back to main README](../README.md)
+[⬅ Back to main README](README.md)
