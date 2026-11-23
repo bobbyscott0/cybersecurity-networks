@@ -45,3 +45,7 @@ Flags: ACK only
 Acknowledgment number (raw): the server's sequence number from Q7, plus 1.
 First data packet
 This is the first packet in the stream with TCP Segment Len above 0, which would be the client's DNS query. Its flags are typically PSH, ACK. PSH (Push) tells the receiver to hand the data to the application immediately instead of buffering it. ACK means the acknowledgment-number field is valid and confirms the data received so far. Click the packet and expand the TCP section to confirm the exact flags.
+
+
+---
+[⬅ Back to main README](README.md)
