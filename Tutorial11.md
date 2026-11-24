@@ -1,1 +1,3 @@
+Feedback on Project :
 
+Continue to work on the cloud service price estimates and risk assesment. Work with Gabby on the project presentation in anticipation of the due date.
