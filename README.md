@@ -8,3 +8,5 @@
 - [Tutorial 6](Tutorial6.md)
 - [Tutorial 7](Tutorial7.md)
 - [Tutorial 8](Tutorial8.md)
+- [Tutorial 9](Tutorial9.md)
+- [Tutorial 10](Tutorial10.md)
