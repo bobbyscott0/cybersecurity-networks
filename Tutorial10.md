@@ -45,3 +45,7 @@ How I'd apply it: Keep the router firewall on and turn off remote management and
 
 Why it matters: Attackers often exploit known flaws that already have fixes available, like the CVEs we reviewed earlier. Applying updates quickly closes those doors.
 How I'd apply it: Turn on automatic updates for Windows Server 2022 and the laptops, and check monthly for TP-Link router firmware updates (the router currently runs 1.3.2). Critical security patches get installed within days, and unsupported software gets replaced.
+
+
+---
+[⬅ Back to main README](README.md)
