@@ -26,11 +26,14 @@ Why it's important: Prevention can fail, so the business needs to notice suspici
 Attack/vulnerability mitigated: Unknown devices on the Wi-Fi (like the neighbor), port scanning and brute-force login attempts against the router or server, and large unusual data transfers that suggest a cybercriminal is stealing customer data. Router logs, connected-device alerts, and a basic intrusion detection tool support this.
 
 Objective 4
-
 Function: Detect (DE)
 Category: Adverse Event Analysis (DE.AE)
 Sub-category: DE.AE-02: Potentially adverse events are analyzed to better understand associated activities
 Why it's important: Collecting alerts and logs isn't enough unless someone reviews them to work out whether an event is a real attack or normal activity. This stops real incidents being ignored among false alarms.
 Attack/vulnerability mitigated: Insider threats and account takeover. For example, reviewing logs could reveal a disgruntled employee downloading customer records late at night, or a run of failed logins followed by a successful one, which suggests someone guessed a password. Spotting this early limits the damage.
+
+
+
+
 ---
 [⬅ Back to main README](README.md)
