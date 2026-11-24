@@ -26,6 +26,7 @@ Why it's important: Prevention can fail, so the business needs to notice suspici
 Attack/vulnerability mitigated: Unknown devices on the Wi-Fi (like the neighbor), port scanning and brute-force login attempts against the router or server, and large unusual data transfers that suggest a cybercriminal is stealing customer data. Router logs, connected-device alerts, and a basic intrusion detection tool support this.
 
 Objective 4
+
 Function: Detect (DE)
 Category: Adverse Event Analysis (DE.AE)
 Sub-category: DE.AE-02: Potentially adverse events are analyzed to better understand associated activities
